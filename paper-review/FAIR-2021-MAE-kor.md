@@ -1,8 +1,8 @@
 ---
-description: (Description) 1st auhor / Paper name / Venue
+description: (Description) Kaiming He, Xinlei Chen / Masked Autoencoders Are Scalable Vision Learners / Facebook AI Research(FAIR)
 ---
 
-# \(Template\) Title \[Language\]
+# Masked AutoEncoder(MAE) \[Kor\]
 
 ## Guideline
 
